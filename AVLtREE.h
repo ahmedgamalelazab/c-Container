@@ -2,7 +2,10 @@
 
     today is 6/9/2020
     i'm still in the damn army 
-    this is a c++ container with singly linked list 
+    this is avl tree which is a node clollection and this is the best container to contain and search for the data even if u entered 1 ,2 ,3 
+    tested on Visual Code using c++ extensions 
+    tested on Visual studio c++ too 
+    tested on all text editors and works perfectly 
 
 */
 
